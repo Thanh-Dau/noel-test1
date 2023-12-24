@@ -705,7 +705,7 @@ section{
 .content1{
     position: absolute;
     width: 700px;
-    height: 400px;
+    height: 600px;
     background-image: radial-gradient(circle farthest-corner at center, #f9edf3 10%, #ffd3ee 100%);
     border-radius: 10px 70px 10px 70px;
     box-shadow: 5px 5px 10px rgb(0, 0, 0);
